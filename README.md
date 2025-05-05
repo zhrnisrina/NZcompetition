@@ -16,6 +16,10 @@
   <a href="#ask-man">ASK-Man</a>
 </p>
 
+![image](https://github.com/user-attachments/assets/28c6deac-b6a0-46c4-b7b3-ce41a1f8d0d9)
+![image](https://github.com/user-attachments/assets/804e2569-ea72-4f61-aab5-c9682bc6a32e)
+
+
 ## Latar Belakang
 
 Ketahanan pangan merupakan aspek fundamental yang mempengaruhi kesejahteraan sosial, ekonomi, dan kesehatan masyarakat. Dalam konteks global yang semakin kompleks, ketahanan pangan tidak hanya dipengaruhi oleh faktor produksi pangan, tetapi juga oleh aksesibilitas, distribusi, dan kualitas pangan. Oleh karena itu, pemantauan dan evaluasi ketahanan pangan melalui **Indeks Ketahanan Pangan (IKP)** menjadi sangat penting. IKP digunakan untuk mengukur sejauh mana suatu wilayah atau kelompok masyarakat dapat mengakses dan memanfaatkan pangan yang cukup, bergizi, dan aman, serta menilai kerentanannya terhadap risiko pangan, seperti krisis pangan, bencana alam, atau fluktuasi harga pangan.
