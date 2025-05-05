@@ -2,11 +2,11 @@
   <img src="https://raw.githubusercontent.com/zhrnisrina/NZcompetition/main/Logo-IPB-University-Horizontal-600x157.png" alt="Logo IPB University" width="400">
 </p>
 
-<h2 align="center">ASK-MAN</h2>
+<h2 align="center">KLASIFIKASI KELOMPOK INDEKS
+ KETAHANAN PANGAN</h2>
 
 <p align="center">
-  <b>KLASIFIKASI KELOMPOK INDEKS
- KETAHANAN PANGAN
+  <b> NEWTON
 </p>
 
 <p align="center">
