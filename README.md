@@ -4,7 +4,10 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/5de28d78-50df-46cf-a5dd-c1fc2d0653ac)
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/5de28d78-50df-46cf-a5dd-c1fc2d0653ac)" alt="Peta Ketahanan Pangan" width="500">
+</p>
 
 ![image](https://github.com/user-attachments/assets/e16375b8-c507-404f-8fc0-84f917f204dc)
 
@@ -46,3 +49,11 @@ flowchart TD
 
 ![image](https://github.com/user-attachments/assets/3a910b1a-7093-4875-ae5c-a6e432800bcd)
 
+## 👥 Anggota Kelompok
+
+| Nama Lengkap                  | NIM         | 
+|-------------------------------|-------------|
+| Putri Nisrina Az-Zahra        | M0501241050 |
+| Zamrah Mutmainnah             | M0501241066 |
+| Nabillah Rahmatia Tangke      | M0501241070 |   
+| Nur'aini                      | M0501241058 |
