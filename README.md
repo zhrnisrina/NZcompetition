@@ -1,18 +1,16 @@
-# 📊 Klasifikasi Kelompok Indeks Ketahanan Pangan (IKP)
+# Klasifikasi Kelompok Indeks Ketahanan Pangan (IKP)
 
 🔗 **Link Proyek:** [[https://github.com/zhrnisrina/NZcompetition](https://github.com/zhrnisrina/NZcompetition)]
 
 ---
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/5de28d78-50df-46cf-a5dd-c1fc2d0653ac)" width="500">
-</p>
+![image](https://github.com/user-attachments/assets/5de28d78-50df-46cf-a5dd-c1fc2d0653ac)
 
 ![image](https://github.com/user-attachments/assets/e16375b8-c507-404f-8fc0-84f917f204dc)
 
 ![image](https://github.com/user-attachments/assets/be572329-5d16-4636-9f91-b96d2e2f0be0)
 
-## 📚 Latar Belakang
+## Latar Belakang
 
 Ketahanan pangan merupakan aspek fundamental yang mempengaruhi kesejahteraan sosial, ekonomi, dan kesehatan masyarakat. Dalam konteks global yang semakin kompleks, ketahanan pangan tidak hanya dipengaruhi oleh faktor produksi pangan, tetapi juga oleh aksesibilitas, distribusi, dan kualitas pangan. Oleh karena itu, pemantauan dan evaluasi ketahanan pangan melalui **Indeks Ketahanan Pangan (IKP)** menjadi sangat penting. IKP digunakan untuk mengukur sejauh mana suatu wilayah atau kelompok masyarakat dapat mengakses dan memanfaatkan pangan yang cukup, bergizi, dan aman, serta menilai kerentanannya terhadap risiko pangan, seperti krisis pangan, bencana alam, atau fluktuasi harga pangan.
 
@@ -34,15 +32,7 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 
 ## 🔄 Diagram Alir
 
-```mermaid
-flowchart TD
-    A[Pengumpulan Data] --> B[Pembersihan Data]
-    B --> C[Eksplorasi Data]
-    C --> D[Feature Engineering]
-    D --> E[Pemisahan Data (Train/Test)]
-    E --> F[Pemodelan]
-    F --> G[Evaluasi Model]
-    G --> H[Prediksi Harga Rumah]
+```
 
 ```
 
