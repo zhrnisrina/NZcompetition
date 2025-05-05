@@ -1,14 +1,20 @@
-# Klasifikasi Kelompok Indeks Ketahanan Pangan (IKP)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zhrnisrina/NZcompetition/main/Logo-IPB-University-Horizontal-600x157.png" alt="Logo IPB University" width="400">
+</p>
 
-🔗 **Link Proyek:** [[https://github.com/zhrnisrina/NZcompetition](https://github.com/zhrnisrina/NZcompetition)]
+<h2 align="center">ASK-MAN</h2>
 
----
+<p align="center">
+  <b>KLASIFIKASI KELOMPOK INDEKS
+ KETAHANAN PANGAN
+</p>
 
-![image](https://github.com/user-attachments/assets/5de28d78-50df-46cf-a5dd-c1fc2d0653ac)
-
-![image](https://github.com/user-attachments/assets/e16375b8-c507-404f-8fc0-84f917f204dc)
-
-![image](https://github.com/user-attachments/assets/be572329-5d16-4636-9f91-b96d2e2f0be0)
+<p align="center">
+  <a href="#tentang">Tentang</a> •
+  <a href="#deskripsi-project">Deskripsi Project</a> •
+  <a href="#demo-dan-alur-project">Demo dan Alur Project</a> •
+  <a href="#ask-man">ASK-Man</a>
+</p>
 
 ## Latar Belakang
 
