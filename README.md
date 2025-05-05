@@ -4,9 +4,8 @@
 
 ---
 
-
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/5de28d78-50df-46cf-a5dd-c1fc2d0653ac)" alt="Peta Ketahanan Pangan" width="500">
+  <img src="![image](https://github.com/user-attachments/assets/5de28d78-50df-46cf-a5dd-c1fc2d0653ac)" width="500">
 </p>
 
 ![image](https://github.com/user-attachments/assets/e16375b8-c507-404f-8fc0-84f917f204dc)
