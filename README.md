@@ -28,9 +28,9 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 
 ## 🎯 Tujuan
 
-1. *Mengidentifikasi faktor-faktor utama* yang memengaruhi tingkat ketahanan pangan suatu wilayah berdasarkan data indikator yang tersedia.
-2. *Mengklasifikasikan wilayah ke dalam kelompok-kelompok Indeks Ketahanan Pangan* (tinggi, sedang, rendah) secara sistematis dan terukur.
-3. *Meningkatkan akurasi pemetaan ketahanan pangan*, sehingga hasil klasifikasi dapat dimanfaatkan untuk perumusan kebijakan, penentuan prioritas intervensi, serta monitoring dan evaluasi program pembangunan pangan daerah.
+1. Mengidentifikasi faktor-faktor utama yang memengaruhi tingkat ketahanan pangan suatu wilayah berdasarkan data indikator yang tersedia.
+2. Mengklasifikasikan wilayah ke dalam kelompok-kelompok Indeks Ketahanan Pangan (tinggi, sedang, rendah) secara sistematis dan terukur.
+3. Meningkatkan akurasi pemetaan ketahanan pangan, sehingga hasil klasifikasi dapat dimanfaatkan untuk perumusan kebijakan, penentuan prioritas intervensi, serta monitoring dan evaluasi program pembangunan pangan daerah.
 ---
 
 ## 🔄 Diagram Alir
@@ -39,12 +39,26 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 
 ```
 
-## DATA YANG DIGUNAKAN
-Y  – INDEKS KETAHANAN PANGAN 
-X1 – PERSENTASE BALITA STUNTING (%)
-X2 – PERSENTASE RUMAH TANGGA DENGAN AKSES LISTRIK (%)
-X3 – PRODUKSI PADI (TON)
-X4 – PERSENTASE LAJU PERTUMBUHAN EKONOMI (%)
+Berikut contoh penulisan bagian **"Data yang Digunakan"** untuk README GitHub Anda dalam format yang rapi dan informatif:
+
+---
+
+## Data yang Digunakan
+
+* **Y – Indeks Ketahanan Pangan**
+  Nilai indeks yang mencerminkan tingkat ketahanan pangan di suatu wilayah.
+
+* **X1 – Persentase Balita Stunting (%)**
+  Proporsi balita yang mengalami _stunting_, mencerminkan permasalahan gizi kronis.
+
+* **X2 – Persentase Rumah Tangga dengan Akses Listrik (%)**
+  Indikator ketersediaan infrastruktur dasar yang menunjang kualitas hidup.
+
+* **X3 – Produksi Padi (ton)**
+  Total produksi padi sebagai indikator ketersediaan pangan utama.
+
+* **X4 – Persentase Laju Pertumbuhan Ekonomi (%)**
+  Laju pertumbuhan ekonomi yang mencerminkan kondisi pembangunan wilayah.
 
 
 ## 👥 Anggota Kelompok
