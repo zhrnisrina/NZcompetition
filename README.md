@@ -6,7 +6,7 @@
  KETAHANAN PANGAN</h2>
 
 <p align="center">
-  <b> NEWTON
+  <b> **NEWTON**
 </p>
 
 ![image](https://github.com/user-attachments/assets/7fcd1985-49c8-444e-8fda-444da36df7ff)
@@ -38,8 +38,6 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 ```
 
 ```
-
-Berikut contoh penulisan bagian **"Data yang Digunakan"** untuk README GitHub Anda dalam format yang rapi dan informatif:
 
 ---
 
