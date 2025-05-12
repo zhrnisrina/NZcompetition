@@ -9,15 +9,8 @@
   <b> NEWTON
 </p>
 
-<p align="center">
-  <a href="#tentang">Tentang</a> •
-  <a href="#deskripsi-project">Deskripsi Project</a> •
-  <a href="#demo-dan-alur-project">Demo dan Alur Project</a> •
-  <a href="#ask-man">ASK-Man</a>
-</p>
-
-![image](https://github.com/user-attachments/assets/28c6deac-b6a0-46c4-b7b3-ce41a1f8d0d9)
-![image](https://github.com/user-attachments/assets/804e2569-ea72-4f61-aab5-c9682bc6a32e)
+![image](https://github.com/user-attachments/assets/7fcd1985-49c8-444e-8fda-444da36df7ff)
+![image](https://github.com/user-attachments/assets/e25c2afd-29de-4ba9-9e47-3464a1b0894f)
 
 
 ## Latar Belakang
@@ -46,7 +39,13 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 
 ```
 
-![image](https://github.com/user-attachments/assets/3a910b1a-7093-4875-ae5c-a6e432800bcd)
+## DATA YANG DIGUNAKAN
+Y  – INDEKS KETAHANAN PANGAN 
+X1 – PERSENTASE BALITA STUNTING (%)
+X2 – PERSENTASE RUMAH TANGGA DENGAN AKSES LISTRIK (%)
+X3 – PRODUKSI PADI (TON)
+X4 – PERSENTASE LAJU PERTUMBUHAN EKONOMI (%)
+
 
 ## 👥 Anggota Kelompok
 
