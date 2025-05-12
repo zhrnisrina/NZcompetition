@@ -26,14 +26,14 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 
 ---
 
-## 🎯 Tujuan
+## Tujuan
 
 1. Mengidentifikasi faktor-faktor utama yang memengaruhi tingkat ketahanan pangan suatu wilayah berdasarkan data indikator yang tersedia.
 2. Mengklasifikasikan wilayah ke dalam kelompok-kelompok Indeks Ketahanan Pangan (tinggi, sedang, rendah) secara sistematis dan terukur.
 3. Meningkatkan akurasi pemetaan ketahanan pangan, sehingga hasil klasifikasi dapat dimanfaatkan untuk perumusan kebijakan, penentuan prioritas intervensi, serta monitoring dan evaluasi program pembangunan pangan daerah.
 ---
 
-## 🔄 Diagram Alir
+## Diagram Alir
 
 ```
 
@@ -59,7 +59,7 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
   Laju pertumbuhan ekonomi yang mencerminkan kondisi pembangunan wilayah.
 
 
-## 👥 Anggota Kelompok
+## Anggota Kelompok
 
 | Nama Lengkap                  | NIM         | 
 |-------------------------------|-------------|
