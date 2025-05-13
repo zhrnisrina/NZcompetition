@@ -36,7 +36,7 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 ## Diagram Alir
 
 ```
-![Business process flow example - Page 1](https://github.com/user-attachments/assets/1782be64-69f3-41bd-ab5c-1a734050b7e8)
+![Business process flow example - Page 1](https://github.com/user-attachments/assets/6a14e1ea-2c3c-4101-b67f-af83cbb47740)
 
 ```
 
