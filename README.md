@@ -34,8 +34,6 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 ---
 
 ## Diagram Alir
-
-```
 ![Image](https://github.com/user-attachments/assets/7aef87a9-7448-42bd-a653-7167ae09b414)
 
 ```
