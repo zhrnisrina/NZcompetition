@@ -36,7 +36,7 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 ## Diagram Alir
 
 ```
-![Business process flow example - Page 1](https://github.com/user-attachments/assets/331ac5aa-17e3-43ca-bab0-c7699353299f)
+![Business process flow example - Page 1](https://github.com/user-attachments/assets/1782be64-69f3-41bd-ab5c-1a734050b7e8)
 
 ```
 
@@ -66,5 +66,5 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 |-------------------------------|-------------|
 | Putri Nisrina Az-Zahra        | M0501241050 |
 | Zamrah Mutmainnah             | M0501241066 |
-| Nabillah Rahmatia Tangke      | M0501241070 |   
+| Nabillah Rahmatiah Tangke     | M0501241070 |   
 | Nur'aini                      | M0501241058 |
