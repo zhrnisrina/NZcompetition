@@ -2,15 +2,17 @@
   <img src="https://raw.githubusercontent.com/zhrnisrina/NZcompetition/main/Logo-IPB-University-Horizontal-600x157.png" alt="Logo IPB University" width="400">
 </p>
 
-<h2 align="center">KLASIFIKASI KELOMPOK INDEKS
- KETAHANAN PANGAN</h2>
-
 <p align="center">
-  <b>NEWTON</b><br><br>
   <a href="https://github.com/zhrnisrina">Putri Nisrina Az-Zahra</a> &nbsp;|&nbsp;
   <a href="https://github.com/nabillahtangke">Nabillah Rahmatiah Tangke</a> &nbsp;|&nbsp;
   <a href="https://github.com/nuraiiini">Nur'aini</a> &nbsp;|&nbsp;
   <a href="https://github.com/zamrah201">Zamrah Mutmainnah</a>
+</p>
+
+<h2 align="center">INDEKS KETAHANAN PANGAN: EVALUASI METODE KLASIFIKASI BERBASIS PEMBELAJARAN MESIN</h2>
+
+<p align="center">
+  <b>NEWTON</b><br><br>
 </p>
 
 ![image](https://github.com/user-attachments/assets/7fcd1985-49c8-444e-8fda-444da36df7ff)
@@ -116,11 +118,11 @@ Variabel `Produksi Padi` memiliki sejumlah nilai kosong (missing) pada beberapa 
 ---
 🗃 Pengambilan Keputusan Berbasis Data
 
-Pemanfaatan model Bagging Regresi Logistik dalam pemetaan Indeks Ketahanan Pangan (IKP) terbukti mampu meningkatkan efektivitas dalam menentukan prioritas intervensi serta merancang program pembangunan pangan yang lebih terarah dan berbasis data. Dengan akurasi dan keseimbangan klasifikasi yang tinggi, model ini memberikan gambaran yang lebih adil terhadap kondisi wilayah, sehingga kebijakan yang dihasilkan dapat menjangkau daerah-daerah yang benar-benar membutuhkan perhatian khusus.
+Pemanfaatan metode Bagging Regresi Logistik dalam klasifikasi Indeks Ketahanan Pangan (IKP) menunjukkan hasil akurasi yang cukup tinggi dan keseimbangan klasifikasi yang baik. Meskipun belum menghasilkan model akhir yang siap diterapkan, hasil evaluasi ini dapat menjadi acuan awal untuk pengembangan metode yang lebih lanjut dan sebagai dasar dalam mendukung pengambilan keputusan yang lebih tepat dan inklusif di masa mendatang.
 
 Sebaliknya, model seperti SVM Bagging dan KNN yang menunjukkan kecenderungan bias terhadap kelas mayoritas perlu dihindari, khususnya dalam konteks penyusunan kebijakan yang inklusif dan berkeadilan. Penggunaan model yang tidak sensitif terhadap kelas minoritas dapat mengaburkan identifikasi wilayah rentan dan menghambat efektivitas program intervensi.
 
-Lebih jauh, pendekatan berbasis data seperti ini membuka peluang untuk membangun sistem pendukung keputusan (decision support system) yang berkelanjutan. Dengan memanfaatkan kekuatan analitik dari model yang terbukti handal, pemerintah daerah dan pemangku kepentingan dapat mengoptimalkan sumber daya, memonitor perkembangan secara berkala, dan mengevaluasi dampak dari kebijakan pangan dengan lebih objektif dan terukur.
+Lebih jauh, pendekatan berbasis data seperti ini membuka peluang untuk membangun sistem pendukung keputusan (decision support system) yang berkelanjutan. Dengan memanfaatkan kekuatan analitik dari model yang terbukti handal, pemerintah daerah dan pemangku kepentingan dapat mengoptimalkan sumber daya, memonitor perkembangan secara berkala, dan mengevaluasi dampak dari kebijakan pangan dengan lebih objektif dan terukur.
 
 ---
 
