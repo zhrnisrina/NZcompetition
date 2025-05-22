@@ -11,11 +11,11 @@
 
 ![image](https://github.com/user-attachments/assets/7fcd1985-49c8-444e-8fda-444da36df7ff)
 
-## 🧭Latar Belakang
+## 🧭 Latar Belakang
 
-Ketahanan pangan merupakan aspek fundamental yang mempengaruhi kesejahteraan sosial, ekonomi, dan kesehatan masyarakat. Dalam konteks global yang semakin kompleks, ketahanan pangan tidak hanya dipengaruhi oleh faktor produksi pangan, tetapi juga oleh aksesibilitas, distribusi, dan kualitas pangan. Oleh karena itu, pemantauan dan evaluasi ketahanan pangan melalui **Indeks Ketahanan Pangan (IKP)** menjadi sangat penting. IKP digunakan untuk mengukur sejauh mana suatu wilayah atau kelompok masyarakat dapat mengakses dan memanfaatkan pangan yang cukup, bergizi, dan aman, serta menilai kerentanannya terhadap risiko pangan, seperti krisis pangan, bencana alam, atau fluktuasi harga pangan.
+Ketahanan pangan merupakan aspek fundamental yang mempengaruhi kesejahteraan sosial, ekonomi, dan kesehatan masyarakat. Dalam konteks global yang semakin kompleks, ketahanan pangan tidak hanya dipengaruhi oleh faktor produksi pangan, tetapi juga oleh aksesibilitas, distribusi, dan kualitas pangan. Oleh karena itu, pemantauan dan evaluasi ketahanan pangan melalui Indeks Ketahanan Pangan (IKP) menjadi sangat penting. IKP digunakan untuk mengukur sejauh mana suatu wilayah atau kelompok masyarakat dapat mengakses dan memanfaatkan pangan yang cukup, bergizi, dan aman, serta menilai kerentanannya terhadap risiko pangan, seperti krisis pangan, bencana alam, atau fluktuasi harga pangan.
 
-Seiring dengan kemajuan teknologi, penelitian mengenai ketahanan pangan kini semakin dimungkinkan dengan penerapan **metode machine learning**. Metode ini memungkinkan pengolahan data yang lebih kompleks dan besar, serta pengenalan pola yang lebih akurat dalam berbagai faktor yang memengaruhi ketahanan pangan. Dengan menggunakan algoritma machine learning, seperti **klasifikasi (classification)**, **regresi (regression)**, dan **clustering**, kita dapat mengklasifikasikan wilayah atau kelompok ke dalam kategori IKP, seperti sangat rentan dan atau tahan terhadap ketahanan pangan. Proses ini memberikan keunggulan dalam mengidentifikasi perbedaan ketahanan pangan antar wilayah atau kelompok masyarakat dengan tingkat akurasi yang lebih tinggi.
+Seiring dengan kemajuan teknologi, penelitian mengenai ketahanan pangan kini semakin dimungkinkan dengan penerapan metode machine learning. Metode ini memungkinkan pengolahan data yang lebih kompleks dan besar, serta pengenalan pola yang lebih akurat dalam berbagai faktor yang memengaruhi ketahanan pangan. Dengan menggunakan algoritma machine learning, seperti klasifikasi (classification), regresi (regression), dan clustering, kita dapat mengklasifikasikan wilayah atau kelompok ke dalam kategori IKP, seperti sangat rentan dan atau tahan terhadap ketahanan pangan. Proses ini memberikan keunggulan dalam mengidentifikasi perbedaan ketahanan pangan antar wilayah atau kelompok masyarakat dengan tingkat akurasi yang lebih tinggi.
 
 Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi dalam mengklasifikasikan ketahanan pangan, tetapi juga memungkinkan identifikasi faktor-faktor penyebab ketahanan pangan yang lebih mendalam dan berbasis data yang lebih komprehensif. Dengan demikian, penelitian ini diharapkan dapat memberikan kontribusi signifikan dalam merancang kebijakan ketahanan pangan yang lebih efektif dan berkelanjutan, serta memitigasi kerentanannya, terutama bagi kelompok masyarakat yang paling terdampak.
 
@@ -46,7 +46,21 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 ## 🔁 Diagram Alir
 ![Image](https://github.com/user-attachments/assets/7aef87a9-7448-42bd-a653-7167ae09b414)
 
+---
 
+## 🔧 Penanganan Missing Value
+
+Variabel `Produksi Padi` memiliki sejumlah nilai kosong (missing) pada beberapa kabupaten/kota. Untuk memastikan kualitas analisis, dilakukan **imputasi data** dengan metode berikut:
+
+* 🔍 **Strategi**:
+  Nilai yang hilang diisi dengan **median Produksi Padi dari provinsi tempat kabupaten/kota tersebut berada**.
+
+* ✅ **Alasan Pemilihan Median**:
+
+  * Lebih robust terhadap outlier dibanding rata-rata
+  * Tetap mencerminkan karakteristik wilayah provinsi secara umum
+  * Memungkinkan pengisian yang konsisten dan berbasis wilayah administratif
+    
 ---
 
 ## 👥Anggota Kelompok
