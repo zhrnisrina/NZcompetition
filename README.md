@@ -49,7 +49,8 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 ---
 
 ## Proporsi Kelompok IKP 
-![WhatsApp Image 2025-05-22 at 14 23 54_11800a8b](https://github.com/user-attachments/assets/b8178e53-e333-4f5e-b2af-07f0c6b79f6b)
+![image](https://github.com/user-attachments/assets/49e527ca-b397-4250-94c9-94b8b612081c)
+
 
 ---
 
