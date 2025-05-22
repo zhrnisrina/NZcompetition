@@ -9,6 +9,14 @@
   <b> NEWTON
 </p>
 
+<p align="center">
+  <b>NEWTON</b><br><br>
+  🔗 <a href="https://github.com/zhrnisrina">@zhrnisrina</a> – Putri Nisrina Az-Zahra<br>
+  🔗 <a href="https://github.com/nabillahtangke">@nabillahtangke</a> – Nabillah Rahmatiah Tangke<br>
+  🔗 <a href="https://github.com/nuraiiini">@nuraiiini</a> – Nur'aini<br>
+  🔗 <a href="https://github.com/zamrah201">@zamrah201</a> – Zamrah Mutmainnah
+</p>
+
 ![image](https://github.com/user-attachments/assets/7fcd1985-49c8-444e-8fda-444da36df7ff)
 
 ## 🧭 Latar Belakang
