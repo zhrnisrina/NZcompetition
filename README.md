@@ -6,15 +6,11 @@
  KETAHANAN PANGAN</h2>
 
 <p align="center">
-  <b> NEWTON
-</p>
-
-<p align="center">
   <b>NEWTON</b><br><br>
-  🔗 <a href="https://github.com/zhrnisrina">@zhrnisrina</a> – Putri Nisrina Az-Zahra<br>
-  🔗 <a href="https://github.com/nabillahtangke">@nabillahtangke</a> – Nabillah Rahmatiah Tangke<br>
-  🔗 <a href="https://github.com/nuraiiini">@nuraiiini</a> – Nur'aini<br>
-  🔗 <a href="https://github.com/zamrah201">@zamrah201</a> – Zamrah Mutmainnah
+  <a href="https://github.com/zhrnisrina">Putri Nisrina Az-Zahra</a> &nbsp;|&nbsp;
+  <a href="https://github.com/nabillahtangke">Nabillah Rahmatiah Tangke</a> &nbsp;|&nbsp;
+  <a href="https://github.com/nuraiiini">Nur'aini</a> &nbsp;|&nbsp;
+  <a href="https://github.com/zamrah201">Zamrah Mutmainnah</a>
 </p>
 
 ![image](https://github.com/user-attachments/assets/7fcd1985-49c8-444e-8fda-444da36df7ff)
@@ -27,20 +23,27 @@ Seiring dengan kemajuan teknologi, penelitian mengenai ketahanan pangan kini sem
 
 Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi dalam mengklasifikasikan ketahanan pangan, tetapi juga memungkinkan identifikasi faktor-faktor penyebab ketahanan pangan yang lebih mendalam dan berbasis data yang lebih komprehensif. Dengan demikian, penelitian ini diharapkan dapat memberikan kontribusi signifikan dalam merancang kebijakan ketahanan pangan yang lebih efektif dan berkelanjutan, serta memitigasi kerentanannya, terutama bagi kelompok masyarakat yang paling terdampak.
 
+
 ---
+
 
 ## 🎯 Tujuan
 
 *  Mengklasifikasikan wilayah ke dalam kelompok-kelompok Indeks Ketahanan Pangan secara sistematis dan terukur.
 *  Meningkatkan akurasi pemetaan ketahanan pangan, sehingga hasil klasifikasi dapat dimanfaatkan untuk perumusan kebijakan, penentuan prioritas intervensi, serta monitoring dan evaluasi program pembangunan pangan daerah.
+
+
 ---
+
 
 ## 📊 Data
 
 *  Data yang digunakan berasal dari **Portal Satu Data Indonesia** melalui tautan: [https://data.go.id/](https://data.go.id/)
 *  Observasi mencakup seluruh **514 kabupaten/kota di Indonesia**, yang mencerminkan kondisi sosial-ekonomi dan tingkat ketahanan pangan di masing-masing wilayah.
 
+
 ---
+
 
 | **Variabel** | **Keterangan**             | **Deskripsi**                                                                               | **Satuan**              |
 | ------------ | -------------------------- | ------------------------------------------------------------------------------------------- | ----------------------- |
@@ -50,11 +53,16 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 | **X3**       | Produksi Padi              | Total produksi padi sebagai indikator ketersediaan pangan utama                             | Ton                     |
 | **X4**       | Laju Pertumbuhan Ekonomi   | Laju pertumbuhan ekonomi sebagai gambaran kondisi pembangunan wilayah                       | Persentase (%)          |
 
+
 ---
+
+
 ## 🔁 Diagram Alir
 ![Image](https://github.com/user-attachments/assets/7aef87a9-7448-42bd-a653-7167ae09b414)
 
+
 ---
+
 
 ## Proporsi Kelompok IKP 
 ![image](https://github.com/user-attachments/assets/49e527ca-b397-4250-94c9-94b8b612081c)
@@ -76,7 +84,9 @@ Variabel `Produksi Padi` memiliki sejumlah nilai kosong (missing) pada beberapa 
   * Tetap mencerminkan karakteristik wilayah provinsi secara umum
   * Memungkinkan pengisian yang konsisten dan berbasis wilayah administratif
  
+
  ---
+
 
  ## 🤖 Model Klasifikasi 
 
@@ -88,7 +98,9 @@ Variabel `Produksi Padi` memiliki sejumlah nilai kosong (missing) pada beberapa 
 | Bagging Reglog (Bagging + Logistic Regression) | 84.31         | 83.04                 |
 | SVM Bagging                                    | 74.51         | 68.94                 |
 
+
  ---
+
 
  ## 📌 Interpretasi
 
@@ -100,19 +112,12 @@ Variabel `Produksi Padi` memiliki sejumlah nilai kosong (missing) pada beberapa 
 
 👟 **KNN** memiliki performa paling rendah dalam kedua metrik, yang bisa jadi disebabkan oleh sensitivitasnya terhadap skala data atau distribusi observasi yang padat di wilayah tertentu.
 
+
 ---
+
 
 ## 💡 Kesimpulan
 
 Model ensemble seperti **Bagging Reglog** dan **Random Forest** terbukti unggul dalam memodelkan klasifikasi ketahanan pangan berbasis data sosial-ekonomi dan produksi. Ini menunjukkan bahwa penggabungan beberapa model (**ensemble**) dapat meningkatkan akurasi dan kestabilan prediksi.
 
 ---
-    
-## 👥Anggota Kelompok
-
-| Nama Lengkap                  | NIM         | 
-|-------------------------------|-------------|
-| Putri Nisrina Az-Zahra        | M0501241050 |
-| Zamrah Mutmainnah             | M0501241066 |
-| Nabillah Rahmatiah Tangke     | M0501241070 |   
-| Nur'aini                      | M0501241058 |
