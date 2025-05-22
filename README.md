@@ -62,6 +62,11 @@ Variabel `Produksi Padi` memiliki sejumlah nilai kosong (missing) pada beberapa 
   * Memungkinkan pengisian yang konsisten dan berbasis wilayah administratif
     
 ---
+## Pie Chart
+![image](https://github.com/user-attachments/assets/29603b1f-186d-4926-bb65-ba499078460b)
+
+## 
+---
 
 ## 👥Anggota Kelompok
 
