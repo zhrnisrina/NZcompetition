@@ -28,9 +28,9 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 
 ## Tujuan
 
-1. Mengidentifikasi faktor-faktor utama yang memengaruhi tingkat ketahanan pangan suatu wilayah berdasarkan data indikator yang tersedia.
-2. Mengklasifikasikan wilayah ke dalam kelompok-kelompok Indeks Ketahanan Pangan (tinggi, sedang, rendah) secara sistematis dan terukur.
-3. Meningkatkan akurasi pemetaan ketahanan pangan, sehingga hasil klasifikasi dapat dimanfaatkan untuk perumusan kebijakan, penentuan prioritas intervensi, serta monitoring dan evaluasi program pembangunan pangan daerah.
+*  Mengidentifikasi faktor-faktor utama yang memengaruhi tingkat ketahanan pangan suatu wilayah berdasarkan data indikator yang tersedia.
+*  Mengklasifikasikan wilayah ke dalam kelompok-kelompok Indeks Ketahanan Pangan secara sistematis dan terukur.
+*  Meningkatkan akurasi pemetaan ketahanan pangan, sehingga hasil klasifikasi dapat dimanfaatkan untuk perumusan kebijakan, penentuan prioritas intervensi, serta monitoring dan evaluasi program pembangunan pangan daerah.
 ---
 
 ## Diagram Alir
@@ -43,20 +43,14 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 
 ## Data yang Digunakan
 
-* **Y – Indeks Ketahanan Pangan**
-  Nilai indeks yang mencerminkan tingkat ketahanan pangan di suatu wilayah.
+| **Variabel** | **Keterangan**             | **Deskripsi**                                                                               | **Satuan**              |
+| ------------ | -------------------------- | ------------------------------------------------------------------------------------------- | ----------------------- |
+| **Y**        | Indeks Ketahanan Pangan    | Mencerminkan tingkat ketahanan pangan di suatu wilayah                                      | Indeks (1-6)            |
+| **X1**       | Persentase Balita Stunting | Proporsi balita yang mengalami *stunting*, mencerminkan permasalahan gizi kronis            | Persentase (%)          |
+| **X2**       | Akses Listrik              | Persentase rumah tangga dengan akses terhadap listrik sebagai indikator infrastruktur dasar | Persentase (%)          |
+| **X3**       | Produksi Padi              | Total produksi padi sebagai indikator ketersediaan pangan utama                             | Ton                     |
+| **X4**       | Laju Pertumbuhan Ekonomi   | Laju pertumbuhan ekonomi sebagai gambaran kondisi pembangunan wilayah                       | Persentase (%)          |
 
-* **X1 – Persentase Balita Stunting (%)**
-  Proporsi balita yang mengalami _stunting_, mencerminkan permasalahan gizi kronis.
-
-* **X2 – Persentase Rumah Tangga dengan Akses Listrik (%)**
-  Indikator ketersediaan infrastruktur dasar yang menunjang kualitas hidup.
-
-* **X3 – Produksi Padi (ton)**
-  Total produksi padi sebagai indikator ketersediaan pangan utama.
-
-* **X4 – Persentase Laju Pertumbuhan Ekonomi (%)**
-  Laju pertumbuhan ekonomi yang mencerminkan kondisi pembangunan wilayah.
 
 
 ## Anggota Kelompok
