@@ -114,7 +114,15 @@ Variabel `Produksi Padi` memiliki sejumlah nilai kosong (missing) pada beberapa 
 
 
 ---
+🗃 Pengambilan Keputusan Berbasis Data
 
+Pemanfaatan model Bagging Regresi Logistik dalam pemetaan Indeks Ketahanan Pangan (IKP) terbukti mampu meningkatkan efektivitas dalam menentukan prioritas intervensi serta merancang program pembangunan pangan yang lebih terarah dan berbasis data. Dengan akurasi dan keseimbangan klasifikasi yang tinggi, model ini memberikan gambaran yang lebih adil terhadap kondisi wilayah, sehingga kebijakan yang dihasilkan dapat menjangkau daerah-daerah yang benar-benar membutuhkan perhatian khusus.
+
+Sebaliknya, model seperti SVM Bagging dan KNN yang menunjukkan kecenderungan bias terhadap kelas mayoritas perlu dihindari, khususnya dalam konteks penyusunan kebijakan yang inklusif dan berkeadilan. Penggunaan model yang tidak sensitif terhadap kelas minoritas dapat mengaburkan identifikasi wilayah rentan dan menghambat efektivitas program intervensi.
+
+Lebih jauh, pendekatan berbasis data seperti ini membuka peluang untuk membangun sistem pendukung keputusan (decision support system) yang berkelanjutan. Dengan memanfaatkan kekuatan analitik dari model yang terbukti handal, pemerintah daerah dan pemangku kepentingan dapat mengoptimalkan sumber daya, memonitor perkembangan secara berkala, dan mengevaluasi dampak dari kebijakan pangan dengan lebih objektif dan terukur.
+
+---
 
 ## 💡 Kesimpulan
 
