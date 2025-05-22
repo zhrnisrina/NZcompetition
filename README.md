@@ -9,11 +9,8 @@
   <a href="https://github.com/zamrah201">Zamrah Mutmainnah</a>
 </p>
 
-<h2 align="center">INDEKS KETAHANAN PANGAN: EVALUASI METODE KLASIFIKASI BERBASIS PEMBELAJARAN MESIN</h2>
-
-<p align="center">
-  <b>NEWTON</b><br><br>
-</p>
+<h2 align="center">Indeks Ketahanan Pangan: Evaluasi Metode Klasifikasi Berbasis Pembelajaran Mesin</h2>
+<h2 align="center">NEWTON</h2>
 
 ![image](https://github.com/user-attachments/assets/7fcd1985-49c8-444e-8fda-444da36df7ff)
 
