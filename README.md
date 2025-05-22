@@ -48,6 +48,12 @@ Penerapan machine learning dalam analisis IKP bukan hanya memperbaiki akurasi da
 
 ---
 
+## Proporsi Kelompok IKP 
+![WhatsApp Image 2025-05-22 at 14 23 54_11800a8b](https://github.com/user-attachments/assets/b8178e53-e333-4f5e-b2af-07f0c6b79f6b)
+
+---
+
+
 ## 🔧 Penanganan Missing Value
 
 Variabel `Produksi Padi` memiliki sejumlah nilai kosong (missing) pada beberapa kabupaten/kota. Untuk memastikan kualitas analisis, dilakukan **imputasi data** dengan metode berikut:
@@ -60,14 +66,39 @@ Variabel `Produksi Padi` memiliki sejumlah nilai kosong (missing) pada beberapa 
   * Lebih robust terhadap outlier dibanding rata-rata
   * Tetap mencerminkan karakteristik wilayah provinsi secara umum
   * Memungkinkan pengisian yang konsisten dan berbasis wilayah administratif
+ 
+ ---
+
+ ## 🤖 Model Klasifikasi 
+
+| Metode                                         | Accuracy (%)  | Balanced Accuracy (%) |
+| ---------------------------------------------- | ------------  | --------------------- |
+| K-Nearest Neighbors (KNN)                      | 71.57         | 69.54                 |
+| Decision Tree                                  | 82.35         | 81.50                 |
+| Random Forest (RF)                             | 83.33         | 82.27                 |
+| Bagging Reglog (Bagging + Logistic Regression) | 84.31         | 83.04                 |
+| SVM Bagging                                    | 74.51         | 68.94                 |
+
+ ---
+
+ ## 📌 Interpretasi
+
+🔍 **Bagging Reglog** memberikan performa terbaik dengan **accuracy sebesar 84.31%** dan **balanced accuracy sebesar 83.04%**. Hal ini menunjukkan bahwa model ini tidak hanya akurat secara keseluruhan, tetapi juga seimbang dalam mengklasifikasikan kedua kelas IKP (1 dan 2).
+
+🌲 **Random Forest** dan **Decision Tree** juga menunjukkan performa yang tinggi, menandakan bahwa model pohon keputusan cukup baik dalam menangkap pola non-linear dari variabel prediktor.
+
+🧠 **SVM Bagging** memiliki accuracy yang cukup baik, namun **balanced accuracy-nya rendah**, mengindikasikan ketidakseimbangan dalam mengklasifikasi kelas minoritas.
+
+👟 **KNN** memiliki performa paling rendah dalam kedua metrik, yang bisa jadi disebabkan oleh sensitivitasnya terhadap skala data atau distribusi observasi yang padat di wilayah tertentu.
+
+---
+
+## 💡 Kesimpulan
+
+Model ensemble seperti **Bagging Reglog** dan **Random Forest** terbukti unggul dalam memodelkan klasifikasi ketahanan pangan berbasis data sosial-ekonomi dan produksi. Ini menunjukkan bahwa penggabungan beberapa model (**ensemble**) dapat meningkatkan akurasi dan kestabilan prediksi.
+
+---
     
----
-## Pie Chart
-![image](https://github.com/user-attachments/assets/29603b1f-186d-4926-bb65-ba499078460b)
-
-## 
----
-
 ## 👥Anggota Kelompok
 
 | Nama Lengkap                  | NIM         | 
